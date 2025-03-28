@@ -6,4 +6,4 @@ spring:
     name: config-client # 应用名称
 
 # 自定义配置
-name: config-client-default-test
+name: config-client-prd-test
